@@ -4,7 +4,7 @@
 
 #### Clone git repo
 
-    git clone git://github.com/nelstrom/dotvim.git ~/.vim
+    git clone git@github.com:MartinFleischer/butjar-vim.git ~/.vim
 #### Create symlinks:
 
     ln -s ~/.vim/vimrc ~/.vimrc
